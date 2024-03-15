@@ -18,4 +18,6 @@ Maintenant, nous sommes prêts à passer à l'action, à donner forme à nos id�
 
 Armez-vous de votre curiosité et de votre créativité, car nous nous apprêtons à esquisser le monde qui servira de toile de fond à notre aventure interactive. En avant pour sculpter l'univers de votre jeu ! 🚀🖌️
 
+[Lien pour tester le jeu](https://gd.games/instant-builds/a54dab05-f63d-4cc1-a80e-dd04e6b850df)
+
 [Mapping et Liste des Assets](https://github.com/g404-code-gaming/TypingGame/blob/main/Création-Du-Jeu/1.Mapping%20et%20Liste%20des%20Assets.md)
